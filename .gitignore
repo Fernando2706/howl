@@ -1,0 +1,24 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Binarios
+howl
+*.exe
+*.out
+*.test
+
+# Archivos temporales
+logs
+*.log
+*.tmp
+
+# Go
+/vendor/
+/bin/
+/coverage.out
+
+# Editorconfig
+.idea/
+.vscode/
+*.swp
